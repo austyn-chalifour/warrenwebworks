@@ -224,7 +224,7 @@ const ServicesPage = () => {
 
                 <div className="grid md:grid-cols-2 gap-6">
                   <div>
-                    <h4 className="font-semibold text-primary mb-3">What's Included</h4>
+                    <h4 className="font-semibold text-primary mb-3">What&apos;s Included</h4>
                     <ul className="space-y-2">
                       {service.features.map((feature, idx) => (
                         <li key={idx} className="flex items-start text-sm text-gray-700">

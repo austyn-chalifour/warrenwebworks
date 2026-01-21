@@ -62,7 +62,7 @@ const PortfolioPreview = () => {
           transition={{ delay: 0.2 }}
           className="text-xl text-gray-600 max-w-3xl mx-auto"
         >
-          Real projects, real results. See how we've helped local businesses grow online.
+          Real projects, real results. See how we&apos;ve helped local businesses grow online.
         </motion.p>
       </div>
 

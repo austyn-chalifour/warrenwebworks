@@ -4,7 +4,6 @@ const nextConfig = {
     domains: ['images.unsplash.com', 'cdn.sanity.io'],
   },
   reactStrictMode: true,
-  swcMinify: true,
 }
 
 module.exports = nextConfig

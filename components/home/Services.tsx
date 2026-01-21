@@ -71,7 +71,7 @@ const Services = () => {
           transition={{ delay: 0.2 }}
           className="text-xl text-gray-600 max-w-3xl mx-auto"
         >
-          From design to development, SEO to support – we're your all-in-one web partner.
+          From design to development, SEO to support – we&apos;re your all-in-one web partner.
         </motion.p>
       </div>
 

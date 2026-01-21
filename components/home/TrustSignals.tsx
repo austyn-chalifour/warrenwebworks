@@ -8,7 +8,7 @@ const TrustSignals = () => {
     {
       name: 'Sarah Johnson',
       business: 'Warren Auto Repair',
-      quote: 'Our online bookings increased 300% after Warren Web Works redesigned our site. Best investment we\'ve made!',
+      quote: 'Our online bookings increased 300% after Warren Web Works redesigned our site. Best investment we&apos;ve made!',
       rating: 5,
     },
     {
@@ -20,7 +20,7 @@ const TrustSignals = () => {
     {
       name: 'Michael Torres',
       business: 'Torres Medical Clinic',
-      quote: 'They transformed our outdated website into a modern, patient-friendly platform. Couldn\'t be happier.',
+      quote: 'They transformed our outdated website into a modern, patient-friendly platform. Couldn&apos;t be happier.',
       rating: 5,
     },
   ]
@@ -78,7 +78,7 @@ const TrustSignals = () => {
 
               {/* Quote */}
               <blockquote className="text-gray-700 mb-6 leading-relaxed">
-                "{testimonial.quote}"
+                &ldquo;{testimonial.quote}&rdquo;
               </blockquote>
 
               {/* Author */}

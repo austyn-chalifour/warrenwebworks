@@ -80,7 +80,7 @@ const PortfolioPage = () => {
       description: 'Real estate platform with property listings, virtual tours, and lead capture.',
       image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&h=600&fit=crop',
       tags: ['Web Design', 'IDX Integration', 'Virtual Tours'],
-      challenge: 'Generic template site that didn\'t showcase properties effectively.',
+      challenge: 'Generic template site that didn&apos;t showcase properties effectively.',
       solution: 'Custom property showcase with 3D tours, advanced search, and automated lead nurturing.',
       results: {
         inquiries: '+220%',
@@ -153,7 +153,7 @@ const PortfolioPage = () => {
               Our Portfolio
             </h1>
             <p className="text-xl text-gray-200 leading-relaxed">
-              Real projects, real results. Explore how we've helped Warren businesses transform their online presence and achieve measurable growth.
+              Real projects, real results. Explore how we&apos;ve helped Warren businesses transform their online presence and achieve measurable growth.
             </p>
           </motion.div>
         </div>
@@ -274,7 +274,7 @@ const PortfolioPage = () => {
             Ready to Be Our Next Success Story?
           </h2>
           <p className="text-xl text-gray-600 mb-8">
-            Let's discuss how we can help your Warren business achieve similar results.
+            Let&apos;s discuss how we can help your Warren business achieve similar results.
           </p>
           <Link href="/contact" className="btn-primary inline-flex items-center">
             Start Your Project

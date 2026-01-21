@@ -94,10 +94,10 @@ const ContactPage = () => {
               <span className="text-accent">Contact</span>
             </div>
             <h1 className="text-4xl md:text-5xl font-heading font-bold mb-6">
-              Let's Build Something Amazing
+              Let&apos;s Build Something Amazing
             </h1>
             <p className="text-xl text-gray-200 leading-relaxed">
-              Ready to transform your online presence? Get a free website audit and consultation. We're here in Warren and ready to help.
+              Ready to transform your online presence? Get a free website audit and consultation. We&apos;re here in Warren and ready to help.
             </p>
           </motion.div>
         </div>
@@ -116,7 +116,7 @@ const ContactPage = () => {
                 Get Your Free Website Audit
               </h2>
               <p className="text-gray-600 mb-8">
-                Fill out the form below and we'll get back to you within 24 hours with a comprehensive audit of your current website (if you have one) or recommendations for your new project.
+                Fill out the form below and we&apos;ll get back to you within 24 hours with a comprehensive audit of your current website (if you have one) or recommendations for your new project.
               </p>
 
               {isSubmitted ? (
@@ -128,7 +128,7 @@ const ContactPage = () => {
                   <CheckCircle className="w-16 h-16 text-green-500 mx-auto mb-4" />
                   <h3 className="text-2xl font-bold text-green-800 mb-2">Thank You!</h3>
                   <p className="text-green-700">
-                    We've received your message and will get back to you within 24 hours.
+                    We&apos;ve received your message and will get back to you within 24 hours.
                   </p>
                 </motion.div>
               ) : (
@@ -263,7 +263,7 @@ const ContactPage = () => {
                   </button>
 
                   <p className="text-sm text-gray-500 text-center">
-                    By submitting this form, you agree to our privacy policy. We'll never share your information.
+                    By submitting this form, you agree to our privacy policy. We&apos;ll never share your information.
                   </p>
                 </form>
               )}

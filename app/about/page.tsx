@@ -36,7 +36,7 @@ const AboutPage = () => {
     {
       icon: Heart,
       title: 'Local First',
-      description: 'We live and work in Warren. Your success is our community\'s success.',
+      description: 'We live and work in Warren. Your success is our community&apos;s success.',
     },
     {
       icon: Target,
@@ -46,12 +46,12 @@ const AboutPage = () => {
     {
       icon: Award,
       title: 'Quality Obsessed',
-      description: 'We don\'t cut corners. Every line of code, every pixel matters.',
+      description: 'We don&apos;t cut corners. Every line of code, every pixel matters.',
     },
     {
       icon: Users,
       title: 'Partnership Mentality',
-      description: 'We\'re not just vendors—we\'re your long-term web partners.',
+      description: 'We&apos;re not just vendors—we&apos;re your long-term web partners.',
     },
   ]
 
@@ -89,10 +89,10 @@ const AboutPage = () => {
               <span className="text-accent">About Us</span>
             </div>
             <h1 className="text-4xl md:text-5xl font-heading font-bold mb-6">
-              We're Warren's Web Partner
+              We&apos;re Warren&apos;s Web Partner
             </h1>
             <p className="text-xl text-gray-200 leading-relaxed">
-              Born and raised in Warren, MI. We're not just building websites—we're building our community's digital future, one business at a time.
+              Born and raised in Warren, MI. We&apos;re not just building websites—we&apos;re building our community&apos;s digital future, one business at a time.
             </p>
           </motion.div>
         </div>
@@ -109,16 +109,16 @@ const AboutPage = () => {
             <h2 className="heading-lg mb-6">Our Story</h2>
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
-                Warren Web Works started in 2019 with a simple observation: too many local businesses were being underserved by generic web agencies that didn't understand our community.
+                Warren Web Works started in 2019 with a simple observation: too many local businesses were being underserved by generic web agencies that didn&apos;t understand our community.
               </p>
               <p>
-                As Warren natives, we saw incredible businesses with outdated websites, losing customers to competitors simply because they couldn't be found online or their sites didn't work on mobile.
+                As Warren natives, we saw incredible businesses with outdated websites, losing customers to competitors simply because they couldn&apos;t be found online or their sites didn&apos;t work on mobile.
               </p>
               <p>
                 We started with one mission: <strong className="text-primary">bring world-class web design and development to Warren businesses at fair, transparent prices.</strong>
               </p>
               <p>
-                Today, we've helped over 100 local businesses transform their online presence. We're proud to be part of Warren's small business community, and we're just getting started.
+                Today, we&apos;ve helped over 100 local businesses transform their online presence. We&apos;re proud to be part of Warren&apos;s small business community, and we&apos;re just getting started.
               </p>
             </div>
           </motion.div>
@@ -294,7 +294,7 @@ const AboutPage = () => {
             Ready to Work Together?
           </h2>
           <p className="text-xl text-gray-600 mb-8">
-            Let's talk about how we can help your Warren business grow online.
+            Let&apos;s talk about how we can help your Warren business grow online.
           </p>
           <Link href="/contact" className="btn-primary inline-flex items-center">
             Get Started Today

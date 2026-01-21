@@ -50,7 +50,7 @@ const Stats = () => {
             Results That Speak for Themselves
           </h2>
           <p className="text-gray-200 text-lg">
-            We measure success by the growth of our clients' businesses
+            We measure success by the growth of our clients&apos; businesses
           </p>
         </motion.div>
 
