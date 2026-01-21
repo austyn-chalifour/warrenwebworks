@@ -232,7 +232,7 @@ const AboutPage = () => {
             className="text-center mb-12"
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Our Journey</h2>
-            <p className="text-xl text-gray-200">Growing alongside Warren's business community</p>
+            <p className="text-xl text-gray-200">Growing alongside Warren&apos;s business community</p>
           </motion.div>
 
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
